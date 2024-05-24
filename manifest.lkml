@@ -1,15 +1,15 @@
 constant: CONNECTION_NAME {
-  value: "mcdms-gcp-dev"
+  value: "mex-gcp-dev"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "mcdms-gcp-dev"
+  value: "kdmx-poc-sap"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "CORTEX_SAP_REPORTING"
+  value: "SAP_REPORTING"
   export: override_required
 }
 
