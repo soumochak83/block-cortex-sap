@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "mex-gcp-dev"
+  value: "looker-demo-fr-team"
   export: override_required
 }
 
