@@ -1,10 +1,10 @@
 constant: CONNECTION_NAME {
-  value: "mex-gcp-dev"
+  value: "looker-demo-fr-team"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "kdmx-poc-sap"
+  value: "aceromex-sap-pro"
   export: override_required
 }
 
@@ -14,7 +14,7 @@ constant: REPORTING_DATASET {
 }
 
 constant: CLIENT {
-  value: "100"
+  value: "400"
   export: override_required
 }
 
